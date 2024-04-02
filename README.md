@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with backend systems.
-- 🌱 I’m currently learning DevOps (AWS, GitHub Actions, Containerization, Atlassian product automation)
-- 💬 Ask me about backend web development
+- 🔭 I’m a backend developer (JavaScript, Python, Docker, CI/CD, Blockchain development, Web development, Desktop app development).
+- 🌱 My learning bucket (DevOps, Networking, React)
 - 📫 Reach me on LinkedIn: @nakhtar313
