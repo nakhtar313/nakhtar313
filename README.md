@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-- I’m a backend developer and I love talking with terminal. So far, I've built numerous backends for web, mobile, and desktop apps.
+- I’m a backend developer and I love talking with terminals. So far, I've built numerous backends for web, mobile, and desktop apps.
 - My backpack has:
   - JavaScript (Node.js, Nest.js, Express.js, Electron.js)
   - Python
