@@ -5,7 +5,7 @@
   - JavaScript (Node.js, Nest.js, Express.js, Electron.js)
   - Python
   - .Net Core
-  - ORMs (Sequelize, Prisma)
+  - ORMs (Sequelize, Prisma, linq2db)
   - Databases (MySQL, PostgreSQL, MongoDB)
   - Docker
   - Github Actions & Bitbucket Pipelines (CI/CD)
