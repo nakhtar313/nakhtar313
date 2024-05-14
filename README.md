@@ -1,14 +1,9 @@
-## Hey! Welcome to my GitHub profile.
-### Here's my brief introduction:
+## Welcome to my GitHub profile!.
 
 - I’m a backend developer and I love talking with terminal. So far, I've built numerous backends for web, mobile, and desktop apps.
 - My backpack has:
-  - JavaScript
+  - JavaScript (Node.js, Nest.js, Express.js, Electron.js)
   - Python
-  - Node.js
-  - Nest.js
-  - Electron
-  - Express.js
   - .Net Core
   - ORMs (Sequelize, Prisma)
   - Databases (MySQL, PostgreSQL, MongoDB)
