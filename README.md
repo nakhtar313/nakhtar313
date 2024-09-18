@@ -5,13 +5,15 @@
   - JavaScript (Node.js, Nest.js, Express.js, Electron.js)
   - Python
   - .Net Core
+  - SUI
+  - Move for SUI
   - ORMs (Sequelize, Prisma, linq2db)
   - Databases (MySQL, PostgreSQL, MongoDB)
   - Docker
   - Github Actions & Bitbucket Pipelines (CI/CD)
   - Git
   - Github & Bitbucket
-  - AWS (EC2, ECR, RDS, S3, IAM)
+  - AWS (EC2, ECR, RDS, S3, IAM, KMS, SAM)
 - 🌱 My learning bucket (React.js/Next.js, Advance Networking, Web Security)
 - 📫 Reach me on:
   - LinkedIn: https://www.linkedin.com/in/nakhtar313/
