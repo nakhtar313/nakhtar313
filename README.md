@@ -1,20 +1,20 @@
 ## Welcome to my GitHub profile!
 
-- I’m a backend developer and I love talking with terminals. So far, I've built several backends for web, mobile, and desktop apps.
+- I’m a Backend Dev and I love talking with terminals. So far, I've built several backends for Web, Mobile, and Desktop apps.
 - My backpack has:
+  - GoLang (Go Fiber)
   - JavaScript (Node.js, Nest.js, Express.js, Electron.js)
   - Python
   - .Net Core
-  - SUI
-  - Move for SUI
+  - SUI Blockchain, Move lang
   - ORMs (Sequelize, Prisma, linq2db)
   - Databases (MySQL, PostgreSQL, MongoDB)
   - Docker
   - Github Actions & Bitbucket Pipelines (CI/CD)
-  - Git
   - Github & Bitbucket
   - AWS (EC2, ECR, RDS, S3, IAM, KMS, SAM)
-- 🌱 My learning bucket (React.js/Next.js, Advance Networking, Web Security)
+  - Digital Ocean
+  - Cloudflare
 - 📫 Reach me on:
   - LinkedIn: https://www.linkedin.com/in/nakhtar313/
   - Email: nakhtar313@outlook.com
