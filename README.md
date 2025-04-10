@@ -14,4 +14,4 @@
   - AWS, Digital Ocean, Cloudflare
 - 📫 Reach me on:
   - LinkedIn: https://www.linkedin.com/in/nakhtar313/
-  - Email: nakhtar313@outlook.com
+  - Email: nakhtar313@outlook.com, noman.khan@vyro.ai
